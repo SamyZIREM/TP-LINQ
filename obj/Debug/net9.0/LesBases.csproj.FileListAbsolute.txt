@@ -1,0 +1,28 @@
+C:\Users\Administrateur\Desktop\LesBases\bin\Debug\net9.0\LesBases.exe
+C:\Users\Administrateur\Desktop\LesBases\bin\Debug\net9.0\LesBases.deps.json
+C:\Users\Administrateur\Desktop\LesBases\bin\Debug\net9.0\LesBases.runtimeconfig.json
+C:\Users\Administrateur\Desktop\LesBases\bin\Debug\net9.0\LesBases.dll
+C:\Users\Administrateur\Desktop\LesBases\bin\Debug\net9.0\LesBases.pdb
+C:\Users\Administrateur\Desktop\LesBases\obj\Debug\net9.0\LesBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\LesBases\obj\Debug\net9.0\LesBases.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\LesBases\obj\Debug\net9.0\LesBases.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\LesBases\obj\Debug\net9.0\LesBases.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\LesBases\obj\Debug\net9.0\LesBases.dll
+C:\Users\Administrateur\Desktop\LesBases\obj\Debug\net9.0\refint\LesBases.dll
+C:\Users\Administrateur\Desktop\LesBases\obj\Debug\net9.0\LesBases.pdb
+C:\Users\Administrateur\Desktop\LesBases\obj\Debug\net9.0\LesBases.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\LesBases\obj\Debug\net9.0\ref\LesBases.dll
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\bin\Debug\net9.0\LesBases.exe
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\bin\Debug\net9.0\LesBases.deps.json
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\bin\Debug\net9.0\LesBases.runtimeconfig.json
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\bin\Debug\net9.0\LesBases.dll
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\bin\Debug\net9.0\LesBases.pdb
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\obj\Debug\net9.0\LesBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\obj\Debug\net9.0\LesBases.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\obj\Debug\net9.0\LesBases.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\obj\Debug\net9.0\LesBases.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\obj\Debug\net9.0\LesBases.dll
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\obj\Debug\net9.0\refint\LesBases.dll
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\obj\Debug\net9.0\LesBases.pdb
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\obj\Debug\net9.0\LesBases.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\Cours_M2\C# & .NET\LINQ\obj\Debug\net9.0\ref\LesBases.dll
